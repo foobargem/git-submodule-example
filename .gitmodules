@@ -1,0 +1,3 @@
+[submodule "safe"]
+	path = safe
+	url = git://github.com/astrails/safe.git
