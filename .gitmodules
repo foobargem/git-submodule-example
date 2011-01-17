@@ -1,3 +1,6 @@
 [submodule "safe"]
 	path = safe
 	url = git://github.com/astrails/safe.git
+[submodule "foobar"]
+	path = foobar
+	url = git@github.com:eunchul/foobar.git
